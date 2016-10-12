@@ -4,6 +4,6 @@ Hangul Alphabet Font / 한글 영문 폰트 (후본에서 제작하는 오픈폰
 한글날을 기념하여 후본에서 공개배포 합니다.
 
 사용제한 없는 무료 버전입니다.
-v0.1b
+v0.2b
 http://www.whoborn.net
-Copyrights 2016.10.9 Whoborn Inc.
+Copyrights 2016.10.9 ~ Whoborn Inc.
